@@ -1,6 +1,6 @@
 ![Learn For Help ](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/361383602_1928065820911137_4725469747663744350_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGn6vnzgtfD7s5BfG70q1jt9naWIM04_K32dpYgzTj8rfdNzU200btDwrV-kGWKNvxNuXtSqz3chDQ1En7B50R0&_nc_ohc=owJbzEipSTIAX9EsnHW&_nc_ht=scontent.fdac31-1.fna&oh=00_AfDZWDlyR4lLtpYWFcDx-2ITuFgel5pHFmWC9YmUA9q7yA&oe=64BA4BA3)
 <h1 align="center">Hi 👋, I'm Mahim.</h1>
-<h3 align="center">Now A Student.</h3>
+<!-- <h3 align="center">Now A Student.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahim-111&label=Profile%20views&color=0e75b6&style=flat" alt="mahim-111" /> </p>
 
