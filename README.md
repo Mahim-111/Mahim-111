@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahim-111&label=Profile%20views&color=0e75b6&style=flat" alt="mahim-111" /> </p>
 
-- 🌱 I’m currently learning **Java Programming Language.**
+- 🌱 I’m currently studying **Computer Science and Engineering Department, University of Rajshahi.**
 
-- 📫 How to reach me **mahimbabu111111@gmail.com**
+- 📫 **mahimbabu111111@gmail.com**
 
 
 
