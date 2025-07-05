@@ -32,7 +32,7 @@ Here are some of the languages and tools I'm proficient with:
 <p align="left">
   Feel free to reach out to me through any of the following platforms:
   <br><br>
-  - 📧 **Email**: <a href="mailto:mahimbabu111111@gmail.com">mahimbabu111111@gmail.com</a>
+  - 📧 **Email**: <a href="mailto:mahimbabu111111@gmail.com">Mail Me</a>
   <br><br>
   - 🌐 **LinkedIn**: <a href="https://www.linkedin.com/in/mahim-mm/"> LinkedIn Me </a>
   <br><br>
